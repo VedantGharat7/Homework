@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 bool number(int n){
-
+cout <<"hi";
     int pow=1;
 if (n==1)
 {
