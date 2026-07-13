@@ -18,7 +18,7 @@ void reverse(vector<int> & vec){
 
 int main(){
 
-vector<int>vec = {2,5,6,8,9,10};
+vector<int>vec = {2,5,6,81,9,10};
 
 reverse(vec);
 cout << "The reverse array = ";
